@@ -1,4 +1,4 @@
-<h1 tabindex="-1" class="heading-element" dir="auto">Game Freedom: Frostmourne Wrath of the Lich King</h1>
+<h1 tabindex="-1" class="heading-element" dir="auto">SpiderNet: Wrath of the Lich King</h1>
 
 This BugTracker is a tool to report any issues, errors, bugs and broken mechanics from the SpiderNet (WotLK) realm. With your reports and our skills, we are going to keep Herod being the highest quality Wrath realm in the world.
 
