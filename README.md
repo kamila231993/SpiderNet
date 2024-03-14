@@ -2,7 +2,7 @@
 
 This BugTracker is a tool to report any issues, errors, bugs and broken mechanics from the SpiderNet (WotLK) realm. With your reports and our skills, we are going to keep Herod being the highest quality Wrath realm in the world.
 
-Report Template
+<h1 tabindex="-1" class="heading-element" dir="auto">Report Template</h1>
 
 When creating a bug report, be sure to name it accordingly ("[MAGE] Blink doesn't work" instead of "mage skill bugged"). Please follow the following template while creating a report:
 
@@ -21,6 +21,6 @@ How it should work:
 
 Please explain how should it work. Describe the expected behavior and back it with evidence, such as YouTube video / screenshot / comments from relevant date (when Wrath was live on retail).
 
-When are you going to fix it?
+<h1 tabindex="-1" class="heading-element" dir="auto">When are you going to fix it?</h1>
 
 We don't always fix bugs chronologically. Some bugs take more time to fix, while others take even as short as 2 minutes. Bugs are very often fixed based on severity, if there's a gamebreaking issue, we will make sure to fix it first.
