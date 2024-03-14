@@ -11,12 +11,12 @@ When creating a bug report, be sure to name it accordingly ("[MAGE] Blink doesn'
 
 Describe the bug you have encountered. Why do you think it's a bug? Enclose links to things related to the bug using for example http://wowhead.com/
 
-How to reproduce:
+<p dir="auto"><strong>How to reproduce:</strong></p>
 
 
 Please explain what you did when you encountered the bug. What is your class, where were you when it occured. What can we do to reproduce the bug ourselves?
 
-How it should work:
+<p dir="auto"><strong>How it should work:</strong></p>
 
 
 Please explain how should it work. Describe the expected behavior and back it with evidence, such as YouTube video / screenshot / comments from relevant date (when Wrath was live on retail).
