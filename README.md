@@ -1,4 +1,5 @@
 SpiderNet: Wrath of the Lich King
+
 This BugTracker is a tool to report any issues, errors, bugs and broken mechanics from the SpiderNet (WotLK) realm. With your reports and our skills, we are going to keep Herod being the highest quality Wrath realm in the world.
 
 Report Template
